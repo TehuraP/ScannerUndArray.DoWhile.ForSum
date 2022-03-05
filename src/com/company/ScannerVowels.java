@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ScannerVowels {
     public static void main(String[] args) {
         compareLetters();
+
     }
 
     public static void compareLetters() {
